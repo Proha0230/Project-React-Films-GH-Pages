@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Project-React-Films-GH-Pages/static/css/main.76a65690.css",
+    "main.js": "/Project-React-Films-GH-Pages/static/js/main.f8d42303.js",
+    "index.html": "/Project-React-Films-GH-Pages/index.html",
+    "main.76a65690.css.map": "/Project-React-Films-GH-Pages/static/css/main.76a65690.css.map",
+    "main.f8d42303.js.map": "/Project-React-Films-GH-Pages/static/js/main.f8d42303.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76a65690.css",
+    "static/js/main.f8d42303.js"
+  ]
+}
